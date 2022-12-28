@@ -23,7 +23,7 @@
                         <div class="mt-5 text-center">
                           <a href="https://t.me/TanukiInuErc20" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:brown">MAIN TG</a><br/>
                           <a href="https://medium.com/@HaitaoCh/tanuki-inu-3d9cce1c0876" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:brown">MEDIUM</a><br/>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:brown">DEXTOOLS</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x6692949a1f5f12e7c906211f7bf169852bb98dfa" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:brown">DEXTOOLS</a>
                         </div>
                     </div>
                 </div>
